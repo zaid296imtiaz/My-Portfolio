@@ -23,7 +23,7 @@ const greeting = {
   username: "Zaid",
   title: "Hi all, I'm Zaid",
   subTitle: emoji(
-    "An adept software engineer with 3+ years of experience. Proficient in JavaScript, React, React Native, HTML, CSS, Redux, and UX design. Passionate about creating user-centric experiences and solving problems"
+    "An adept software engineer with 4+ years of experience. Proficient in JavaScript, React, React Native, HTML, CSS, Redux, and UX design. Passionate about creating user-centric experiences and solving problems"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1oZnb2qjcDiETybPhaaXP1Fws_b27Qh4U/view?usp=sharing", // Set to empty to hide the button
@@ -228,8 +228,8 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
