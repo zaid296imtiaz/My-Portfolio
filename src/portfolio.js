@@ -26,7 +26,7 @@ const greeting = {
     "An adept software engineer with 4+ years of experience. Proficient in JavaScript, React, React Native, HTML, CSS, Redux, and UX design. Passionate about creating user-centric experiences and solving problems"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1oZnb2qjcDiETybPhaaXP1Fws_b27Qh4U/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1cK3w_FP2zmOmzAwKjUUB9csLwHgDcb7w/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -395,8 +395,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "6478184472",
+    "Discuss a project or just want to say hi?",
+  number: "",
   email_address: "zaid296imtiaz@gmail.com"
 };
 
